@@ -1,5 +1,5 @@
 default_initial_settings = {
-    "print_speed": 1000,
+    "print_speed": 150,
     "travel_speed": 8000,
     "area_model": "rectangle",
     "extrusion_width": 0.4,
